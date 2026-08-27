@@ -4,7 +4,7 @@
 Personalized movie recommendations using Exa Neural Search and GPT-4o Agent architecture.
 
 Author: Ishant6565 (https://github.com/Ishant6565)
-Repository: https://github.com/Ishant6565/movie-recommendation-agent
+Repository: https://github.com/Ishant6565/CineAgent
 License: MIT
 """
 

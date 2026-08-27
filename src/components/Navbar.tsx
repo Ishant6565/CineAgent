@@ -71,7 +71,7 @@ export const Navbar: React.FC<NavbarProps> = ({
 
           {/* GitHub Repo link */}
           <a
-            href="https://github.com/Ishant6565/Movie-Recommedation"
+            href="https://github.com/Ishant6565/CineAgent"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden sm:flex items-center gap-2 px-3.5 py-2 rounded-xl text-xs font-medium text-zinc-300 bg-white/[0.05] hover:bg-white/15 hover:text-white border border-white/10 transition-all group"

@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🎬 Movie-Recommedation
+# 🎬 CineAgent
 
 ### *Personalized Movie Recommendation Agent Powered by Exa Neural Search & GPT-4o*
 
 <p align="center">
-  <a href="https://github.com/Ishant6565/Movie-Recommedation"><img src="https://img.shields.io/badge/Author-Ishant6565-000000?style=for-the-badge&logo=github&logoColor=white" alt="Author Ishant6565" /></a>
-  <a href="https://github.com/Ishant6565/Movie-Recommedation/stargazers"><img src="https://img.shields.io/github/stars/Ishant6565/Movie-Recommedation?style=for-the-badge&color=000000&labelColor=18181b" alt="GitHub Stars" /></a>
-  <a href="https://github.com/Ishant6565/Movie-Recommedation/network/members"><img src="https://img.shields.io/github/forks/Ishant6565/Movie-Recommedation?style=for-the-badge&color=000000&labelColor=18181b" alt="GitHub Forks" /></a>
-  <a href="https://github.com/Ishant6565/Movie-Recommedation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&labelColor=18181b" alt="License MIT" /></a>
+  <a href="https://github.com/Ishant6565/CineAgent"><img src="https://img.shields.io/badge/Author-Ishant6565-000000?style=for-the-badge&logo=github&logoColor=white" alt="Author Ishant6565" /></a>
+  <a href="https://github.com/Ishant6565/CineAgent/stargazers"><img src="https://img.shields.io/github/stars/Ishant6565/CineAgent?style=for-the-badge&color=000000&labelColor=18181b" alt="GitHub Stars" /></a>
+  <a href="https://github.com/Ishant6565/CineAgent/network/members"><img src="https://img.shields.io/github/forks/Ishant6565/CineAgent?style=for-the-badge&color=000000&labelColor=18181b" alt="GitHub Forks" /></a>
+  <a href="https://github.com/Ishant6565/CineAgent/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge&labelColor=18181b" alt="License MIT" /></a>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ## 🌟 Overview & Highlights
 
-**Movie-Recommedation** is a next-generation AI agent that combines **Exa Neural Search** (to crawl film discourse, reviews, Letterboxd, IMDb, Rotten Tomatoes) with **GPT-4o Multi-Step Agent Reasoning** to evaluate plots, character dynamics, cinematic aesthetics, and emotional resonance.
+**CineAgent** is a next-generation AI agent that combines **Exa Neural Search** (to crawl film discourse, reviews, Letterboxd, IMDb, Rotten Tomatoes) with **GPT-4o Multi-Step Agent Reasoning** to evaluate plots, character dynamics, cinematic aesthetics, and emotional resonance.
 
 - 🧠 **Multi-Step Agent Reasoning Pipeline**: Live step-by-step chain-of-thought trace visualization.
 - 🎭 **Taste & Aesthetic Matrix**: Dynamic filters for emotional mood, narrative pacing (Slow-Burn to Fast-Paced), release era, and streaming platforms (Netflix, Max, Prime, Apple TV+, etc.).
@@ -90,8 +90,8 @@ python agent.py --query "Cozy anime fantasy" --json
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/Ishant6565/Movie-Recommedation.git
-cd Movie-Recommedation
+git clone https://github.com/Ishant6565/CineAgent.git
+cd CineAgent
 npm install
 ```
 
@@ -124,7 +124,7 @@ EXA_API_KEY=your_exa_api_key_here
 ## 📁 Project Structure
 
 ```
-Movie-Recommedation/
+CineAgent/
 ├── src/
 │   ├── components/
 │   │   ├── Navbar.tsx             # Header navigation & Ishant6565 branding
@@ -164,13 +164,13 @@ git init
 
 # 2. Add all files and commit
 git add .
-git commit -m "feat: initial release of Movie-Recommedation Agent by Ishant6565"
+git commit -m "feat: release CineAgent AI by Ishant6565"
 
 # 3. Rename branch to main
 git branch -M main
 
 # 4. Link your remote repository
-git remote add origin https://github.com/Ishant6565/Movie-Recommedation.git
+git remote add origin https://github.com/Ishant6565/CineAgent.git
 
 # 5. Push to GitHub
 git push -u origin main
@@ -183,7 +183,7 @@ git push -u origin main
 Crafted with dedication by **[Ishant6565](https://github.com/Ishant6565)**.
 
 - **GitHub**: [@Ishant6565](https://github.com/Ishant6565)
-- **Repository**: [Movie-Recommedation](https://github.com/Ishant6565/Movie-Recommedation)
+- **Repository**: [CineAgent](https://github.com/Ishant6565/CineAgent)
 
 ---
 

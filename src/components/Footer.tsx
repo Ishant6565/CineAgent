@@ -44,13 +44,13 @@ export const Footer: React.FC = () => {
         {/* Quick Links */}
         <div className="flex items-center gap-4 text-zinc-400">
           <a
-            href="https://github.com/Ishant6565/Movie-Recommedation"
+            href="https://github.com/Ishant6565/CineAgent"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition-colors flex items-center gap-1.5"
           >
             <GithubIcon className="w-4 h-4" />
-            <span>Movie-Recommedation</span>
+            <span>CineAgent</span>
           </a>
           <a
             href="https://github.com/Ishant6565"

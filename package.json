@@ -1,5 +1,5 @@
 {
-  "name": "Movie-Recommedation",
+  "name": "CineAgent",
   "private": true,
   "version": "1.0.0",
   "description": "Personalized Movie Recommendation Agent powered by Exa Neural Search and GPT-4o Agent architecture.",
